@@ -1,1 +1,1 @@
-print("hello,fengchaosen,welcome to haker world")
+c = a + b //result c
