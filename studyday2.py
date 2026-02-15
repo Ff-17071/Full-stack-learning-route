@@ -12,3 +12,6 @@ elif 60 <= user_input < 90:
     print("you are success")
 else:
     print("you are good")
+
+email = 163
+print("my email is fengcs7@" + str(email) + ".com") #字符串拼接，str()函数将数字转换成字符串
