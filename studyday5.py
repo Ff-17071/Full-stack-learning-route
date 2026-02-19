@@ -13,3 +13,9 @@ for user_input_information in user_information:
 #初步的验证已经可以实施，后续可以进行完善，比如增加输入次数限制，增加验证码等功能
 #user_information后续需要考虑用那种类型的数据结构存储，本次因为只是一个简单的校验，多个用户账号和密码的话，用什么进行验证
 #for循环还是if语句？
+
+#增加一个for循环输出的联系
+ball = ['足球', '篮球', '羽毛球']
+for i in ball:
+    print("我喜欢的球类运动有:", i)
+print("欢迎来和我进行一起运动, it's so cool!")
